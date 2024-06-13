@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="miglayout15-swing.jar" scope="COMPILE">
+		<srcroot url="file://miglayout-src.zip"/>
+	</lib>
+	<lib name="jgoodies-forms-1.8.0.jar" scope="COMPILE">
+		<srcroot url="file://jgoodies-forms-1.8.0-sources.jar"/>
+	</lib>
+</component>

@@ -1,0 +1,10 @@
+# ignore all resource files
+/cFlow
+/data
+/forms
+/logos
+/products
+/raw
+/zippables
+*.pdf
+*.pptx

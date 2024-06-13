@@ -1,0 +1,21 @@
+Transaction Category,isCreditable,isDebitable
+Sale,true,true
+Purchase,true,true
+Delivery,false,true
+Production,false,true
+Adjustment,true,true
+Freelance,true,true
+Office,true,true
+Home,false,true
+Loan,true,true
+Vehicle,true,true
+Transaction,true,true
+Renewal,true,true
+Commission,true,true
+Purchase2,true,true
+Sale2,true,true
+Trips,true,true
+Repairing,true,true
+Petrol,true,true
+Export Expense,true,true
+Import Expense,true,true

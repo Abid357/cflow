@@ -1,0 +1,8 @@
+auth=1631824443
+directory=null
+backgroundColor=23,23,23
+labelColor=128,128,128
+textFieldColor=255,255,255
+defaultInventory=null
+enableManufacturing=false
+enableAutoVatCalculation=false
